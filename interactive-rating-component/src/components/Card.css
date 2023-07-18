@@ -1,0 +1,10 @@
+.card{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(29, 19, 67);
+    border-radius: 1.25rem;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+padding:25px;
+}
